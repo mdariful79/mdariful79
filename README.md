@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## I'm a Software Engineer (Full Stack Mern) | Problem Solver | Passionate about creating innovative solutions
 
-- 🥅 2024 Goals: Advance expertise in DSA, initiate backend learning, explore DevOps, contribute to open source, and focus on code quality for continual growth as a software engineer.
+- 🥅 2024 Goals: Advance expertise in DSA, initiate backend learning, explore ExpreeJs/NextJs, contribute to open source, and focus on code quality for continual growth as a software engineer.
 
   
 - 📫 How to reach me: mdariful057@gmail.com.
@@ -35,9 +35,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Docker, ReactJs.
 - 😻 Check out my portfolio website: [Md. Ariful Islam](https://ariful79.netlify.app/)
 
----
 
-### Connect with me:
+
+
+## 📫 Connect with me:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ariful79/" target="_blank">
