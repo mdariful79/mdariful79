@@ -133,7 +133,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a>
     <img src="https://leetcard.jacoblin.cool/ariful79?theme=light&font=McLaren&ext=heatmap" width="340" height="200"/>
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ariful79" width="340" height="200"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=nullbrain79" width="340" height="200"/>
   </a>
 </div>
 
