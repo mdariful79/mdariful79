@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CC729FD&random=false&width=435&lines=HI+there%2C+I'm+Md.+Ariful+Islam!%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CC729FD&random=false&width=435&lines=HI+there%2C+I'm+Md+Ariful+Islam!%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
 <p align="left">
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## I'm a Software Engineer (Full Stack Mern) | Problem Solver | Passionate about creating innovative solutions
 
-- 🥅 2024 Goals: Advance expertise in DSA, initiate backend learning, explore ExpreeJs/NextJs, contribute to open source, and focus on code quality for continual growth as a software engineer.
+- 🥅 2025 Goals: Advance expertise in DSA, initiate backend learning, explore NextJs, contribute to open source, and focus on code quality for continual growth as a software engineer.
 
   
 - 📫 How to reach me: mdariful057@gmail.com.
