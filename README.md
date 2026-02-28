@@ -25,14 +25,14 @@ Here are some ideas to get you started:
 </p>
 
 
-## I'm a Software Engineer (Full Stack Mern) | Problem Solver | Passionate about creating innovative solutions
+## I'm a Trainee Software Engineer (ASP.NET MVC | .Net Core | ASP.NET Core) | Problem Solver | Passionate about creating innovative solutions
 
-- 🥅 2025 Goals: Advance expertise in DSA, initiate backend learning, explore NextJs, contribute to open source, and focus on code quality for continual growth as a software engineer.
+- 🥅 2026 Goals: Advance expertise in DSA, initiate backend learning, explore ASP.NET MVC, .Net Core, ASP.NET Core, contribute to open source, and focus on code quality for continual growth as a software engineer.
 
   
-- 📫 How to reach me: mdariful057@gmail.com.
+- 📫 How to reach me: ariful79cse@gmail.com.
 - ⚡ Fun fact: I love to travel & play online games. 
-- 🌱 I’m currently learning Docker, ReactJs.
+- 🌱 I’m currently learning Docker, ASP.NET Core.
 - 😻 Check out my portfolio website: [Md. Ariful Islam](https://ariful79.netlify.app/)
 
 
